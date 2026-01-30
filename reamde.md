@@ -7,7 +7,7 @@
 ### Для начала создаем папку с помощью **GitBash** используя следующую команду
 
 ```bash
-$ mdir -p ~/my-project/cheat sheet
+$ mkdir -p ~/my-project/cheat sheet
 ```
 
 ### Далее нам следует сделать эту папку репозиторием
