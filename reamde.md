@@ -182,5 +182,5 @@ Git сообщит об этом с помощью статуса modified: фа
 graph LR;
   untracked -- "git add" --> staged;
   staged    -- "commit"     --> tracked/comitted;
-  commited    -- "push"     --> untracked;
+  tracked/comitted    -- "push"     --> untracked;
 ```
